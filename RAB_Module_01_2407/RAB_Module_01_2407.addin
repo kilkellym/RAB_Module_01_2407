@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB Challenge 01</Text>
+    <Description>Some description</Description>
+    <Assembly>RAB_Module_01_2407\RAB_Module_01_2407.dll</Assembly>
+    <FullClassName>RAB_Module_01_2407.Challenge01</FullClassName>
+    <ClientId>790d3563-4cdd-4d6a-9571-95609ca71a79</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
